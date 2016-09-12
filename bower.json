@@ -1,0 +1,25 @@
+{
+  "name": "drywall",
+  "description": "",
+  "main": "",
+  "authors": [
+    "breenyoung <breen.young@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "moment": "^2.15.0",
+    "font-awesome": "Font-Awesome#^4.6.3",
+    "select2": "^4.0.3",
+    "jquery-validation": "^1.15.1"
+  }
+}
